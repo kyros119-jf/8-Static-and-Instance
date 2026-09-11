@@ -1,0 +1,15 @@
+C:\Users\kyros\Softwares\CS-1410-Assignments\8-Static-and-Instance\8-Static-and-Instance\obj\Debug\net10.0\8-Static-and-Instance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyros\Softwares\CS-1410-Assignments\8-Static-and-Instance\8-Static-and-Instance\obj\Debug\net10.0\8-Static-and-Instance.AssemblyInfoInputs.cache
+C:\Users\kyros\Softwares\CS-1410-Assignments\8-Static-and-Instance\8-Static-and-Instance\obj\Debug\net10.0\8-Static-and-Instance.AssemblyInfo.cs
+C:\Users\kyros\Softwares\CS-1410-Assignments\8-Static-and-Instance\8-Static-and-Instance\obj\Debug\net10.0\8-Static-and-Instance.csproj.CoreCompileInputs.cache
+C:\Users\kyros\Softwares\CS-1410-Assignments\8-Static-and-Instance\8-Static-and-Instance\obj\Debug\net10.0\8-Static-and-Instance.sourcelink.json
+C:\Users\kyros\Softwares\CS-1410-Assignments\8-Static-and-Instance\8-Static-and-Instance\bin\Debug\net10.0\8-Static-and-Instance.exe
+C:\Users\kyros\Softwares\CS-1410-Assignments\8-Static-and-Instance\8-Static-and-Instance\bin\Debug\net10.0\8-Static-and-Instance.deps.json
+C:\Users\kyros\Softwares\CS-1410-Assignments\8-Static-and-Instance\8-Static-and-Instance\bin\Debug\net10.0\8-Static-and-Instance.runtimeconfig.json
+C:\Users\kyros\Softwares\CS-1410-Assignments\8-Static-and-Instance\8-Static-and-Instance\bin\Debug\net10.0\8-Static-and-Instance.dll
+C:\Users\kyros\Softwares\CS-1410-Assignments\8-Static-and-Instance\8-Static-and-Instance\bin\Debug\net10.0\8-Static-and-Instance.pdb
+C:\Users\kyros\Softwares\CS-1410-Assignments\8-Static-and-Instance\8-Static-and-Instance\obj\Debug\net10.0\8-Static-and-Instance.dll
+C:\Users\kyros\Softwares\CS-1410-Assignments\8-Static-and-Instance\8-Static-and-Instance\obj\Debug\net10.0\refint\8-Static-and-Instance.dll
+C:\Users\kyros\Softwares\CS-1410-Assignments\8-Static-and-Instance\8-Static-and-Instance\obj\Debug\net10.0\8-Static-and-Instance.pdb
+C:\Users\kyros\Softwares\CS-1410-Assignments\8-Static-and-Instance\8-Static-and-Instance\obj\Debug\net10.0\8-Static-and-Instance.genruntimeconfig.cache
+C:\Users\kyros\Softwares\CS-1410-Assignments\8-Static-and-Instance\8-Static-and-Instance\obj\Debug\net10.0\ref\8-Static-and-Instance.dll
